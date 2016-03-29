@@ -6,7 +6,7 @@ https://github.com/gcorallo/ProcessingExperiments2016
  http://www.openprocessing.org/sketch/25874
  
  -----
- press spacebar for random Ang displace.
+ press spacebar for random Angle displacement.
  */
 
 
